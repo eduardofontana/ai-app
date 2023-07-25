@@ -1,4 +1,3 @@
-# openai-app
 A App with OpenAi
 
 - API da OpenAI - Guia de Uso
