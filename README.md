@@ -2,10 +2,10 @@ A App with OpenAi
 
 - Install
 
-    1 - Clone o código;
-    2 - Deploy the server (render.com), configure o "OPENAI_API_KEY="*******************************"
-    3 - Copie o link criado(render.com) e configure a parte client (vercel.com)]
-    4 - Caso de uma mensagem de erro verifique se está tudo configurado e veja se o seu TOKEN (API_KEY) é válido.
+    1 - Clone o código; </br>
+    2 - Deploy the server (render.com), configure o "OPENAI_API_KEY="*******************************";</br>
+    3 - Copie o link criado(render.com) e configure a parte client (vercel.com);</br>
+    4 - Caso de uma mensagem de erro verifique se está tudo configurado e veja se o seu TOKEN (API_KEY) é válido;</br>
     5 - Gotcha 
 
 - API da OpenAI - Guia de Uso
